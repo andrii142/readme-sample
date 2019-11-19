@@ -11,4 +11,5 @@ https://andrii142.github.io/vscode-git-test/questions.html
 
 ## Tech stack: ##
 HTML5, CSS3, SASS
+<br>
 BEM methodology
