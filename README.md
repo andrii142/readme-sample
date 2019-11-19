@@ -4,6 +4,7 @@ Supports desktop, tablet and mobile versions
 
 ## Pages implemented: ##
 https://andrii142.github.io/vscode-git-test
+<br>
 https://andrii142.github.io/vscode-git-test/about.html
 https://andrii142.github.io/vscode-git-test/questions.html
 
