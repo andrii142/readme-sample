@@ -1,5 +1,6 @@
 ## Description: ##
 This is landing page layout - Name here
+<br>
 Supports desktop, tablet and mobile versions
 
 ## Pages implemented: ##
